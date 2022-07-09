@@ -19,12 +19,8 @@
         "postcss": "^8.1.14",
         "resolve-url-loader": "3.1.0",
         "sass": "^1.32.11",
-<<<<<<< HEAD
         "sass-loader": "^11.0.1",
         "watch": "^1.0.2"
-=======
-        "sass-loader": "^11.0.1"
->>>>>>> filling-layout-style
     },
     "dependencies": {
         "cross-env": "^7.0.3"
