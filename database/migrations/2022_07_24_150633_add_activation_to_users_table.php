@@ -14,9 +14,9 @@ return new class extends Migration
     public function up()
     {
         Schema::table('users', function (Blueprint $table) {
+            //
             $table->string('activation_token')->nullable();
             $table->boolean('activated')->default(false);
-            //
         });
     }
 
